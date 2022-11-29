@@ -6,7 +6,7 @@ The application helps the community in terms of safety by creating a mobile app 
 
 ### Dependencies
 
-*Provide links and descriptions for the third-party libraries you're having your users install.*
+*links and descriptions for the third-party libraries to install coming soon...*
 
 ### Getting started
 
