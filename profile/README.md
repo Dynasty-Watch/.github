@@ -20,7 +20,7 @@ databases, config files, and settings coming soon...
 
 ## Demo
 
-*Grab a simple block of code that makes use of your project/tool and paste it here.*
+sample code and Ui/UX coming soon...
 
 ## Team
 
