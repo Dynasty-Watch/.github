@@ -4,22 +4,22 @@ The application helps the community in terms of safety by creating a mobile app 
 
 ## System Analysis
 ### Dataflow Diagram
-<img src="./dfd.png" />
+<img src="profile\dfd.png" />
 
 ### Business Process Model Notation
-<img src="./bpmn.png" />
+<img src="profile\bpmn.png" />
 
 ### Emergency Request Database
-<img src="./main-db.png" />
+<img src="profile\main-db.png" />
 
 ### Statistics Database
-<img src="./stats-db.png" />
+<img src="profile\stats-db.png" />
 
 ### Hardware Architecture
-<img src="./hw.png" />
+<img src="profile\hw.png" />
 
 ### Systems Architecture
-<img src="./sw.png" />
+<img src="profile\sw.png" />
 
 <!-- ### Sequence Diagram 
 <img src="./Demo-img.png" /> -->
