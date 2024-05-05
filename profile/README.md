@@ -1,6 +1,6 @@
 # *Dynasty Watch*
 
-The application helps the community in terms of safety by creating a mobile app for users to request for emergency assistance by using their mobile phone instead of using the traditional panic button at home. Mobile app users will also provide detailed information of their request using text, images, and audio. Authorities will be able to communicate with mobile app users as they are traveling to the requested location.
+The app enhances community safety by providing a mobile platform for users to request emergency assistance conveniently from their smartphones, replacing the need for traditional panic buttons at home. Users can submit detailed requests with text, images, and audio, while authorities can communicate with them en route to the requested location.
 
 ## System Analysis
 ### Dataflow Diagram
